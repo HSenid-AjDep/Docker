@@ -1,5 +1,5 @@
 # Dockerfile
-FROM openjdk:22-jdk-alpine
+FROM openjdk:17-jdk-alpine
 
 WORKDIR /app
 
